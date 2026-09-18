@@ -1,16 +1,19 @@
 # Mukesh Jena | Cybersecurity Portfolio
 
-A responsive cybersecurity portfolio focused on SOC analysis, Wazuh, detection engineering, security labs and documented learning.
+Personal cybersecurity portfolio for SOC-focused learning, projects and lab documentation.
 
-## Local preview
-Open `index.html` in a browser, or serve the folder with any static web server.
+## Run locally
 
-## Before deployment
-- Replace the GitHub URL placeholder with the real profile/repository URL.
-- Replace `YOUR_EMAIL@example.com`.
-- Add resume PDF to `assets/` and wire the Resume button.
-- Add real screenshots/evidence to the project case studies.
-- Keep project claims aligned with documented work.
+Open `index.html` directly in a browser, or use a simple static server.
 
-## Suggested deployment
-GitHub Pages, Cloudflare Pages, or another static hosting provider.
+## GitHub
+
+Profile: https://github.com/mukesh-soc
+
+## Contact
+
+Email: mukeshkujena127@gmail.com
+
+## Notes
+
+Replace/add real project screenshots, resume PDF, LinkedIn and TryHackMe profile URLs when available. Keep portfolio claims aligned with documented work.
